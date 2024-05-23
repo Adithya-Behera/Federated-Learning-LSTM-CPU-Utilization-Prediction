@@ -20,6 +20,7 @@ The dataset consists of time series data for CPU utilization. Each client has it
 
 To run the Flower server, execute the following command:
 - python server.py
+  
 The server will listen for incoming connections from clients and coordinate the federated learning process.
 
 ## Running the Clients
